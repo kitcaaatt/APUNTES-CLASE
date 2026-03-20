@@ -48,9 +48,9 @@ Escapado de simbolos  **-->**  \# Texto  **-->**  \#Holis
 
 # LINKS E IMAGENES
 
-**Links** : [Nombre de la web](https://cl.pinterest.com/)  
-**Imagen** : ![Texto Alt](https://cl.pinterest.com/)   
-**Imagen con LInk** : [![Texto Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6Qfm47K1IQeHCWhFyK2sKP1GjH_h9RfqOg&s)](https://cl.pinterest.com/)  
+**Links**: [Nombre de la web](https://cl.pinterest.com/)  
+**Imagen**: ![Texto Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzulOVMoSCPHLR1KA1tjeA_FbivD7nFa69HQ&s)   
+**Imagen con LInk**: [![Texto Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6Qfm47K1IQeHCWhFyK2sKP1GjH_h9RfqOg&s)](https://cl.pinterest.com/)  
 
 
  
