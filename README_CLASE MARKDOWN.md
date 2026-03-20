@@ -52,6 +52,9 @@ Escapado de simbolos  **-->**  \# Texto  **-->**  \#Holis
 **Imagen**: ![Texto Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzulOVMoSCPHLR1KA1tjeA_FbivD7nFa69HQ&s)   
 **Imagen con LInk**: [![Texto Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6Qfm47K1IQeHCWhFyK2sKP1GjH_h9RfqOg&s)](https://cl.pinterest.com/)  
 
+# BLOQUES DE CODIGO  
+```python print("Hola Mundo")```
+
 
  
  
