@@ -53,7 +53,9 @@ Escapado de simbolos  **-->**  \# Texto  **-->**  \#Holis
 **Imagen con LInk**: [![Texto Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6Qfm47K1IQeHCWhFyK2sKP1GjH_h9RfqOg&s)](https://cl.pinterest.com/)  
 
 # BLOQUES DE CODIGO  
-```python print("Hola Mundo")```
+```python print("Hola Mundo")```  
+
+# TABLAS
 
 
  
